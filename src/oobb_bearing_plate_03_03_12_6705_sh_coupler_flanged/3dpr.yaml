@@ -194,6 +194,22 @@
     type: n
     width: 3
 -   bearing: '6705'
+    height: 3
+    pos:
+    - 0
+    - 0
+    - 0
+    pos_plate:
+    - 0
+    - 0
+    - 0
+    radius: 5.25
+    shaft: coupler_flanged
+    shape: oobb_hole
+    thickness: 12
+    type: n
+    width: 3
+-   bearing: '6705'
     depth: 12
     height: 3
     nut: true

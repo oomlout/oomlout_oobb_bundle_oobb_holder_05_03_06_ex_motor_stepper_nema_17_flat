@@ -250,6 +250,26 @@
             0,
             0
         ],
+        "shape": "oobb_hole",
+        "pos": [
+            0,
+            0,
+            0
+        ],
+        "radius": 5.25
+    },
+    {
+        "type": "n",
+        "width": 3,
+        "height": 3,
+        "thickness": 12,
+        "bearing": "6705",
+        "shaft": "coupler_flanged",
+        "pos_plate": [
+            0,
+            0,
+            0
+        ],
         "shape": "oobb_screw_countersunk",
         "pos": [
             8.0,
