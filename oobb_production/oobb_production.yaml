@@ -1,8 +1,8 @@
 name: "OOBB Holder For a NEMA 17 Stepper Motor (5x3)"
 description: "OOBB Holder For a NEMA 17 Stepper Motor (5x3)"
 oobb_production_file:
-  - file_source: 3dpr/oobb_holder_05_03_06_ex_motor_stepper_nema_17_flat_3dpr.stl
-    file_render: png/oobb_holder_05_03_06_ex_motor_stepper_nema_17_flat_3dpr.png
+  - file_source: 3dpr/oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat_3dpr.stl
+    file_render: png/oobb_holder_05_03_09_ex_motor_stepper_nema_17_flat_3dpr.png
     file_type: 3dpr
     file_extension: stl
     index: 1
