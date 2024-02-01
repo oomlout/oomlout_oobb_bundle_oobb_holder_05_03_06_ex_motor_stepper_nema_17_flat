@@ -210,6 +210,28 @@
     type: n
     width: 3
 -   bearing: '6705'
+    depth: 25
+    height: 3
+    m: '#'
+    pos:
+    - 0
+    - 0
+    - 0
+    pos_plate:
+    - 0
+    - 0
+    - 0
+    radius_name: m3
+    rot:
+    - 0
+    - 90
+    - 45
+    shaft: coupler_flanged
+    shape: oobb_hole
+    thickness: 12
+    type: n
+    width: 3
+-   bearing: '6705'
     depth: 12
     height: 3
     nut: true
@@ -295,29 +317,6 @@
     rot:
     - 0
     - 180
-    - 0
-    shaft: coupler_flanged
-    shape: oobb_screw_countersunk
-    thickness: 12
-    type: n
-    width: 3
--   bearing: '6705'
-    depth: 22
-    height: 3
-    nut: true
-    overhang: true
-    pos:
-    - 5.657
-    - 5.657
-    - 6.0
-    pos_plate:
-    - 0
-    - 0
-    - 0
-    radius_name: m3
-    rot:
-    - 0
-    - 0
     - 0
     shaft: coupler_flanged
     shape: oobb_screw_countersunk
